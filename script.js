@@ -1,5 +1,5 @@
 
-var text = "Go Lang/API Dev";
+var text = "Graphics & Motion Designer";
 
 const typewriter = document.getElementById('role');
 function typeWriter() {
